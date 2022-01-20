@@ -1,0 +1,7 @@
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\bin\Debug\MetaCalendar.exe
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\bin\Debug\MetaCalendar.pdb
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\obj\x86\Debug\MetaCalendar.Form1.resources
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\obj\x86\Debug\MetaCalendar.Properties.Resources.resources
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\obj\x86\Debug\MetaCalendar.exe
+C:\Users\Ranger\documents\visual studio 2010\Projects\MetaCalendar\MetaCalendar\obj\x86\Debug\MetaCalendar.pdb
